@@ -1,0 +1,38 @@
+body{
+    background-color: orange;
+    overflow: hidden;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.inp{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    margin-right: 550px;
+    margin-left: 550px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.inp-1{
+    margin-top: -50px;
+}
+.inp-5{
+    display: flex;
+    flex-direction: row;
+}
+.inp-6{
+    display: flex;
+    flex-direction: row;
+}
+.btn-1{
+    border-radius: 4px;
+}
+
